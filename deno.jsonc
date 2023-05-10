@@ -1,0 +1,12 @@
+{
+	"fmt": {
+		"useTabs": true,
+		"semiColons": false,
+		"singleQuote": false,
+		"exclude": [
+			"esbuild_out"
+		]
+	},
+	"lock": false,
+	"importMap": "./import_map.json"
+}

@@ -1,0 +1,5 @@
+{
+	"imports": {
+		"vue": "https://esm.sh/vue"
+	}
+}
